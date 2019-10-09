@@ -18,7 +18,7 @@ ls -l A_R1.fastq
 # command that shows the contents of this directory.
 cd ./map
 ls -F
-
+gergwergwrgwrgwrtgwrtb
 # (3) You should see a file named otus.fasta.  Display the contents of this file in the Terminal window.
 cat otus.fasta
 
