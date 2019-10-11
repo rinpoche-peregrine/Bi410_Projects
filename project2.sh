@@ -48,5 +48,6 @@ mkdir log
 
 # (10) Go into the merged directory and list the contents. You will see several files 
 # with names that start with the letters "log". Move all of these files to the new log directory.
+cd merged
 mv log.* ../log
 
